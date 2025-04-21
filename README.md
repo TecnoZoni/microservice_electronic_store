@@ -64,7 +64,7 @@ Todos los servicios están registrados en:
 
 ## ⚙️ Tecnologías Utilizadas
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Cloud
   - Eureka Server
